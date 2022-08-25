@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Amani AL-Zoubi ",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full Stack Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/amani51",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/amani_m_alzoubi/?hl=en",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Snapchat.jpg"
     },
     "skills": {
       "icons": [
