@@ -1,8 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Amani AL-Zoubi. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
+      "description_header": "Hello World!",
+      "description": "👋 I'm Amani AL-Zoubi, a Full Stack Software Developer based out of As-Salt-Jordan. I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites and applications✨. I'm excited to make the leap and continue refining my skills with the right company.🤩",      "section_name": {
         "about": "A Full Stack Software Developer. From Electrical Engineering to lines code on a web page",
         "projects": "Projects",
         "skills": "Skills",
