@@ -33,7 +33,7 @@
       {
         "title": "HR-management-system",
         "startDate": "2022",
-        "description": "A human resources management system ensures everyday human resources processes are manageable and easy to access",
+        "description": "A human resources management system ensures everyday human resources processes are manageable and easy to accessوemployees are categorized according to the job hierarchy.",
         "images": [
           "images/portfolio/photography/hr-m.jpg"
         ],
@@ -54,7 +54,7 @@
         ]
       },
       {
-        "title": "Horns Beast ",
+        "title": "Horns Beast cards ",
         "startDate": "2022",
         "description": "My First React App is about horns beast's cards and making models for each card. in addition, to filtering them by the number of horns.",
         "images": [
@@ -85,7 +85,7 @@
     "experience": [
       {
         "company": "Fresh Junior ",
-        "title": "Front-End Developer",
+        "title": "FE-BE Developer",
         "mainTech": [
           "-"
         ],
