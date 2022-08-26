@@ -3,5 +3,7 @@
 *************
 **This is Amani AL-Zoubi from programming world!!**
 ***********
-[My site](https://630763558980df0fba6b828f--soft-cupcake-be17ba.netlify.app/)
+**From Electrical Engineering⚡💡to lines code on a web page💻👩‍💻️**
+*************
+[My site](https://deploy-preview-3--gilded-fenglisu-b65445.netlify.app/)
 
